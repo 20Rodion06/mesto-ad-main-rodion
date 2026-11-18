@@ -1,0 +1,2 @@
+.profile__description { grid-column: 1 / -1; color: #72867a; font-size: 14px; line-height: 1.5; margin: 12px 0 0; overflow-wrap: anywhere; }
+@media (max-width: 640px) { .profile__description { font-size: 12px; margin-top: 6px; } }

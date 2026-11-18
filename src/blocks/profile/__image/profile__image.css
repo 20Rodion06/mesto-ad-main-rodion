@@ -1,0 +1,4 @@
+.profile__image { position: relative; flex: 0 0 120px; width: 120px; height: 120px; border-radius: 18px; background: #cbd8cd url('../../../images/avatar.jpg') center/cover no-repeat; border: 5px solid #fff; box-shadow: 0 8px 20px #27492d1c; cursor: pointer; overflow: hidden; }
+.profile__image::after { content: 'Изменить фото'; display: flex; justify-content: center; align-items: center; position: absolute; inset: 0; color: #fff; font-size: 11px; background: #1e332acc; opacity: 0; transition: opacity .2s; }
+.profile__image:hover::after, .profile__image:focus-visible::after { opacity: 1; }
+@media (max-width: 640px) { .profile__image { flex-basis: 82px; width: 82px; height: 82px; border-radius: 14px; } }

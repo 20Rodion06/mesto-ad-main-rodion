@@ -1,0 +1,7 @@
+@import url('./__logo/header__logo.css');
+.header { min-height: 96px; display: flex; align-items: center; gap: 36px; border-bottom: 1px solid #dcded7; }
+.header__brand { display: inline-flex; text-decoration: none; flex-shrink: 0; }
+.header__slogan { font-size: 13px; margin: 3px 0 0; color: #798880; letter-spacing: .01em; }
+.header__edition { margin-left: auto; color: #8a988f; font-size: 10px; font-weight: 500; letter-spacing: .16em; white-space: nowrap; }
+@media (max-width: 760px) { .header { min-height: 76px; gap: 18px; } .header__edition { display: none; } .header__slogan { font-size: 11px; } }
+@media (max-width: 440px) { .header__slogan { display: none; } }

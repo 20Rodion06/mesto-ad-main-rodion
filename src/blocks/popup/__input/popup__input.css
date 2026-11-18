@@ -1,0 +1,3 @@
+.popup__input { display: block; width: 100%; height: 46px; border: 1px solid #d7e0d7; border-radius: 9px; background: #fff; padding: 0 13px; margin-top: 8px; color: #2f4334; font-size: 13px; outline: none; transition: border-color .2s; }
+.popup__input::placeholder { color: #a7b3a9; }
+.popup__input:focus { border-color: #58866d; }

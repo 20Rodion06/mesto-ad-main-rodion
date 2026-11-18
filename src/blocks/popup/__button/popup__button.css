@@ -1,0 +1,2 @@
+.popup__button { display: block; width: 100%; padding: 14px 15px; border-radius: 10px; border: 1px solid #29503e; background: #29503e; color: #fff; font-size: 13px; font-weight: 500; margin-top: 17px; cursor: pointer; transition: background .2s; }
+.popup__button:not(:disabled):hover { background: #366a50; }

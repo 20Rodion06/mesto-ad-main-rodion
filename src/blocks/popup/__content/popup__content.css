@@ -1,0 +1,2 @@
+.popup__content { position: relative; width: min(100%, 450px); max-height: calc(100vh - 70px); overflow-y: auto; padding: 36px 40px 38px; border-radius: 19px; background: #fdfdf9; box-shadow: 0 24px 90px #10231744; }
+@media (max-width: 530px) { .popup__content { padding: 27px 22px; } }

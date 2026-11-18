@@ -1,0 +1,2 @@
+.popup__info-item { display: grid; grid-template-columns: 125px 1fr; gap: 12px; padding: 9px 0; border-bottom: 1px solid #e8ede7; }
+@media (max-width: 440px) { .popup__info-item { grid-template-columns: 1fr; gap: 4px; } }

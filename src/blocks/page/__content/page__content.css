@@ -1,0 +1,1 @@
+.page__content { min-height: 100vh; display: flex; flex-direction: column; background: radial-gradient(ellipse 75% 500px at 92% 17%, #eaece4 0%, transparent 80%), #f6f5f1; -webkit-font-smoothing: antialiased; }

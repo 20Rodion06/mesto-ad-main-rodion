@@ -1,0 +1,2 @@
+.page__section { position: relative; width: min(1180px, calc(100% - 80px)); margin-inline: auto; }
+@media (max-width: 760px) { .page__section { width: calc(100% - 36px); } }

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="188" height="48" viewBox="0 0 188 48" fill="none" role="img" aria-label="Атлас">
+<rect x="0.5" y="0.5" width="46" height="46" rx="14" fill="#284C3B"/>
+<circle cx="23.5" cy="23.5" r="13" stroke="#E9EDE2" stroke-width="1.6"/>
+<path d="M31 16L27 27L16 31L20 20L31 16Z" fill="#E0C79F" stroke="#F4E8D5" stroke-width="1" stroke-linejoin="round"/>
+<circle cx="23.5" cy="23.5" r="2.1" fill="#284C3B"/>
+<text x="58" y="29.5" font-size="27" font-weight="600" font-family="Arial, Helvetica, sans-serif" letter-spacing="1" fill="#284C3B">АТЛАС</text>
+<text x="59" y="41" font-size="7.5" font-family="Arial, Helvetica, sans-serif" letter-spacing="2.1" fill="#769180">МЕСТА И ИСТОРИИ</text>
+</svg>

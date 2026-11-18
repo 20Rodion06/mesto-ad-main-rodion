@@ -1,0 +1,5 @@
+.profile__add-button { flex: 0 0 auto; display: flex; align-items: center; gap: 12px; padding: 16px 19px; border: none; border-radius: 11px; background: #254c3c; color: #fff; font-size: 13px; font-weight: 500; cursor: pointer; transition: background .2s, transform .2s; white-space: nowrap; }
+.profile__add-button span { font-size: 22px; line-height: .7; font-weight: 400; }
+.profile__add-button:hover { background: #376a52; transform: translateY(-2px); }
+@media (max-width: 900px) { .profile__add-button { padding: 13px; } }
+@media (max-width: 640px) { .profile__add-button { width: 100%; justify-content: center; margin-top: 7px; } }

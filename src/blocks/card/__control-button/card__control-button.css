@@ -1,0 +1,2 @@
+.card__control-button { width: 34px; height: 34px; padding: 7px; border: 1px solid #ffffffaa; border-radius: 9px; background-position: center; background-size: 16px; background-repeat: no-repeat; background-color: #263b36c5; cursor: pointer; transition: background-color .2s, transform .2s; }
+.card__control-button:hover { background-color: #172820; transform: translateY(-2px); }

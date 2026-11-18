@@ -1,0 +1,8 @@
+@import url('./__content/page__content.css');
+@import url('./__section/page__section.css');
+.page { background: #f6f5f1; color: #263630; font-family: 'Inter', Arial, sans-serif; }
+.page * { box-sizing: border-box; }
+.page button, .page input { font: inherit; }
+.page button:focus-visible, .page input:focus-visible, .popup button:focus-visible, .popup input:focus-visible { outline: 3px solid #b4a27d; outline-offset: 3px; }
+.page__notice { position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%); z-index: 20; padding: 12px 20px; border-radius: 12px; background: #263b36; color: #fff; font-size: 13px; box-shadow: 0 10px 30px #172a2230; max-width: calc(100vw - 36px); text-align: center; }
+.page__notice[hidden] { display: none; }

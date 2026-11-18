@@ -1,0 +1,2 @@
+.popup__label { display: block; color: #4d6355; font-size: 12px; font-weight: 500; margin-bottom: 13px; }
+.popup__label:last-of-type { margin-bottom: 0; }

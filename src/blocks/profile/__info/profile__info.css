@@ -1,0 +1,2 @@
+.profile__info { display: grid; grid-template-columns: minmax(0,auto) auto; justify-content: start; align-items: center; column-gap: 16px; flex: 1; min-width: 0; }
+@media (max-width: 640px) { .profile__info { column-gap: 8px; } }
